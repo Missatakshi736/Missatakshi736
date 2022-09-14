@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 Currently Working with: C, Python, HTML, CSS, Bootstrap, JavaScript, Docker, Flask, RESTful API
+
 🌱 Learning more about: Web, AWS, Azure, Data Structures & Algorithms
+
 👯 Looking to collaborate on: Open Source Software Application,  NLP, Optimization problem
+
 ⚡ Fun fact: I love new Challenges 
 
 <!--
