@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Technical Skills 
+
+https://images.app.goo.gl/EfPhUyb7dbdWaqke8
+
+
 🔭 Currently Working with: C, Python, HTML, CSS, Bootstrap, JavaScript, Docker, Flask, RESTful API
 
 🌱 Learning more about: Web, AWS, Azure, Data Structures & Algorithms
